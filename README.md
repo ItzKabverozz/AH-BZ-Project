@@ -29,7 +29,7 @@ Step3: Run Minecraft Forge
 /startBZFlip -- starts automation for flip
 
 
----------------------------------TROUBLESHOOTING-------------------------------------------------
+---------------------------------TROUBLESHOOTING--------------------------------------------------
 
 Issues may include delay in AH postings, No results after command usage, crashing
 
