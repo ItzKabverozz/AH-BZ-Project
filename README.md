@@ -1,7 +1,7 @@
 # AH-BZ-Project
 future AH and BZ Mod for Hypixel Skyblock
 
------------------------------------------------------------------READ FIRST BEFORE INSTALLING MOD---------------------------------------------------------------------
+-------------------------------READ FIRST BEFORE INSTALLING MOD------------------------------------
 
 (THIS IS A BETA)
 
@@ -12,7 +12,7 @@ Step2: Place Mod into "mods" folder
 Step3: Run Minecraft Forge
 
 
-----------------------------------------------------------------------------COMMANDS-------------------------------------------------------------------------------
+---------------------------------COMMANDS--------------------------------------------------------------
 
 
 
@@ -29,7 +29,7 @@ Step3: Run Minecraft Forge
 /startBZFlip -- starts automation for flip
 
 
-------------------------------------------------------------------------TROUBLESHOOTING------------------------------------------------------------------------------
+---------------------------------TROUBLESHOOTING-------------------------------------------------
 
 Issues may include delay in AH postings, No results after command usage, crashing
 
